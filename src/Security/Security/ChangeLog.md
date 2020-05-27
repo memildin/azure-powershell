@@ -19,6 +19,10 @@
 -->
 ## Upcoming Release
 
+## Version 0.7.8
+* Updated examples Get-AzSecurityPricing
+* Updated examples Set-AzSecurityPricing
+
 ## Version 0.7.7
 * Update references in .psd1 to use relative path
 
