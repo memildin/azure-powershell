@@ -25,7 +25,7 @@ Set-AzSecurityPricing -InputObject <PSSecurityPricing> [-DefaultProfile <IAzureC
 ```
 
 ## DESCRIPTION
-Sets the pricing of Azure Security Center tier for a scope.
+Sets the pricing of Azure Security Center tier for a scope. 
 
 ## EXAMPLES
 
