@@ -28,7 +28,7 @@ Get-AzSecurityPricing -ResourceId <String> [-DefaultProfile <IAzureContextContai
 ```
 
 ## DESCRIPTION
-You can enable each Azure Defender plan, per subscription, using this cmdlet. 
+You can enable each Azure Defender plan, per subscription, using this cmdlet.
 
 For details about Azure Defender and the available plans, see [Introduction to Azure Defender](https://docs.microsoft.com/azure/security-center/azure-defender)
 
